@@ -45,6 +45,9 @@ sudo apt install ddd
 
    3.2 a program with the _main function
     gcc -o exit exit.o 
+ 
+   3.3 if -fPIC error occurs, add -no-pie options
+    gcc -o add add.o -no-pie  
 
    
 ## x86 register purpose
@@ -57,6 +60,8 @@ sudo apt install ddd
  - bp - base pointer (for function frames)
  - sp - stack pointer
 
- 
+## Lecture 
+ - [서울대 Computer Architecture 2018](http://csl.snu.ac.kr/courses/4190.308/2018-2/)
+   
   
  
