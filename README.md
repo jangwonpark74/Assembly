@@ -62,6 +62,6 @@ sudo apt install ddd
 
 ## Lecture 
  - [서울대 Computer Architecture 2018](http://csl.snu.ac.kr/courses/4190.308/2018-2/)
-   
+ - [Princeton Lecture](http://www.cs.princeton.edu/courses/archive/spr17/cos217/lectures/13_Assembly1.pdf)   
   
  
